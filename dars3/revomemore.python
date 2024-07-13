@@ -1,0 +1,6 @@
+ls = list(map(int,input("LIst elementlarini kiriting: ").split()))
+x = int(input("x = >> "))
+
+while ls.count(x):
+	ls.remove(x)
+print(ls)

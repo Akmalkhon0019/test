@@ -1,0 +1,1 @@
+#Ustozdan so'rayman.
