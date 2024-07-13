@@ -44,3 +44,5 @@ print(narhlar)
 narhlar[0] = narhlar[0] + 10000
 
 print(narhlar)
+
+# code + traing world
